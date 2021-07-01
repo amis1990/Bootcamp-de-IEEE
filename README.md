@@ -7,7 +7,7 @@ Nuestra mision es monitorear desde el dia 1 al HeroeCovid, despues de haber sido
       # de Nivel de   presion.
   b)Segun los datos ingresados, automaticamente brindaremos una rutina personalizada para el HeroeCovid:
     - Rutina personalizada de ejercicios de respiraciòn(tiempo, descanso y nivel de progreso), incluiremos musica relajante predefinida por el app.
-    - Rutina personalizada de paseos monitoreados(tiempo, distancia,nro de vueltas, descanso, y nivel de progreso), incluiremos un boton de panico y ruta enviada al familiar de referencia.
+    - Rutina personalizada de paseos monitoreados(tiempo, distancia,nro de vueltas, descanso, y nivel de progreso), incluiremos un boton de panico y ruta enviada al familiar de referencia. Usando nuestros piescesitos que Dios nos regalo y el uso de bicicletas adaptadas a la comodidad de nuestro adulto mayor, pueden tener rueditas etc.
   c)Programa de recompensas:
     -Mostreremos un mapa interactivo con los objetivos logrados, incluira un avatar,sumatoria de puntos y como premio por cada nivel: brindaremos cupones de descuento de productos relacionados al cuidado del adulto mayor y vales de consumo)
     
