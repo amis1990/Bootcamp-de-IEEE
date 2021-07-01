@@ -12,3 +12,9 @@ Nuestra mision es monitorear desde el dia 1 al HeroeCovid, despues de haber sido
     -Mostreremos un mapa interactivo con los objetivos logrados, incluira un avatar,sumatoria de puntos y como premio por cada nivel: brindaremos cupones de descuento de productos relacionados al cuidado del adulto mayor y vales de consumo)
     
 Nota : Sabemos que el uso de las tecnologias se complica en los adultos mayores, porque es algo nuevo para ellos, por eso nos apoyaremos en el familiar de referencia , asi incentivamos al adulto mayor a usar el móvil.
+
+tECNOLOGIAS A USAR:
+Postman
+BD Mysql
+Creamos el demo, en lenguaje java en VisualStudio code
+
