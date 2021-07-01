@@ -18,3 +18,6 @@ Postman
 BD Mysql
 Creamos el demo, en lenguaje java en VisualStudio code
 
+
+lINK DEL VIDEO DE 3 MINUTOS :
+https://www.powtoon.com/c/eR2p4GCyKzB/1/m
